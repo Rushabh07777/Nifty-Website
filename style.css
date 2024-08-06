@@ -1,8 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 
 
 .f1 {
@@ -19,7 +15,7 @@
     margin-left: 100px;
 }
 body {
-    background-color: rgb(42, 8, 67);
+    background-color: rgb(25, 0, 44);
 
 }
 .f1{
